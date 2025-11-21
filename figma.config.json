@@ -1,0 +1,9 @@
+{
+	"fileId": "",
+	"personalAccessToken": "",
+	"codeConnect": {
+		"enabled": false,
+		"notes": "Configure Code Connect settings here for Figma integration (fill fileId and token)."
+	},
+	"devMode": true
+}

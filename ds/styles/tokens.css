@@ -1,0 +1,13 @@
+/*
+  Design tokens (CSS custom properties) placeholder.
+  - Purpose: central source of design tokens for colors, typography, spacing, etc.
+  - Format: define CSS variables (e.g. --color-primary: #000;) when ready.
+  - This file is intentionally empty for now; tokens will be added later.
+*/
+
+:root {
+  /* Example token (placeholder):
+  --color-primary: #000000;
+  --spacing-1: 4px;
+  */
+}

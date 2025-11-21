@@ -1,0 +1,10 @@
+{
+  "name": "playground-ds-app",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Demo app that will consume the Playground Design System",
+  "scripts": {
+    "start": "echo \"Start script not implemented\"",
+    "build": "echo \"Build script not implemented\""
+  }
+}

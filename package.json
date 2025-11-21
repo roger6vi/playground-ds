@@ -1,0 +1,12 @@
+{
+	"name": "playground-ds",
+	"version": "0.0.0",
+	"private": true,
+	"workspaces": [
+		"app"
+	],
+	"description": "Monorepo for Playground Design System (tokens, adapters, and demo app)",
+	"scripts": {
+		"bootstrap": "echo 'Run npm install in each package or use a workspace-aware package manager'"
+	}
+}
